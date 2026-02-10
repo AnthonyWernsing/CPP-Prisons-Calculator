@@ -1,5 +1,0 @@
-﻿  Main.cpp
-E:\Coding\Cosmic Calculator 2\Prisons Calculator 2\Prisons Calculator 2\Pickaxes.h(37,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'Main.cpp')
-  
-  Prisons Calculator 2.vcxproj -> E:\Coding\Cosmic Calculator 2\Prisons Calculator 2\x64\Debug\Prisons Calculator 2.exe
