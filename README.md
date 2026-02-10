@@ -26,3 +26,10 @@ This repository is for **portfolio and code review purposes only**.
 ---
 *Maintained by [AnthonyWernsing](https://github.com/AnthonyWernsing)*
 
+## 📸 Screenshots
+
+![Main Menu](https://i.gyazo.com/ee34aff8be02f9d56dcfd232981cb594.png)
+![Pickaxe](https://i.gyazo.com/2d8a2983292f6f0ee157da607fa5b07f.png)
+![Ore Satchel](https://i.gyazo.com/c870b6c8f2cd5bbbe8a741f77e8aca68.png)
+![Refined Satchel](https://i.gyazo.com/a8ace63bdbd0daddbedd2c298548e034.png)
+![Terminate](https://i.gyazo.com/a6ba186a35f280fac411b4cc69f81ffe.png)
